@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 #Eclipse
 /RemoteSystemsTempFiles
 /.metadata
 
+=======
+>>>>>>> 489d5629adf9017e69790c936b944715de535c3f
 *.class
 
 # Package Files #
