@@ -18,7 +18,7 @@ public class RectangleComponent extends JComponent {
 		g2.setColor(Color.GREEN);
 		g2.draw(box);
 		
-		//Move o retangulo 15 unidades para a direita e 25 para baixo
+		//Move o retangulo 30 unidades para a direita e 45 para baixo
 		box.translate(30, 45);
 		
 		//Desenha o retangulo movido
